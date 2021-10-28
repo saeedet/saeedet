@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's gAwn on mate? 👋
 
 - 🌱 Loading GraphQL & Typsescript...
 - ⚡ Fun fact: Finally, you would dream where you are now.
