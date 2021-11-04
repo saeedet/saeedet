@@ -29,5 +29,4 @@
 
 <br />
 
-[twitter]: https://twitter.com/Saeed_ET90
 [linkedin]: https://www.linkedin.com/in/saeed-eghdam-583b70175/
