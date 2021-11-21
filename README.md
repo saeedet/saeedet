@@ -1,6 +1,6 @@
 ### What's gAwn on mate? 👋
 
-- 🌱 Loading GraphQL & Typsescript...
+- 🌱 Loading Web3 & BlockChain...
 - ⚡ Fun fact: Finally, you would dream where you are now.
 
 ### Connect with me:
