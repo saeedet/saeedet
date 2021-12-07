@@ -1,4 +1,4 @@
-### What's gAwn on mate? 👋
+### What's goin on mate? 👋
 
 - 🌱 Loading Web3 & BlockChain...
 - ⚡ Fun fact: Finally, you would dream where you are now.
