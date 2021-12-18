@@ -1,5 +1,3 @@
-### What's going on mate? 👋
-
 🌱 Finally, you would dream where you are now.
 
 ### Connect with me:
