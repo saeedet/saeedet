@@ -1,7 +1,6 @@
-### What's goin on mate? 👋
+### What's going on mate? 👋
 
-- 🌱 Loading Web3 & BlockChain...
-- ⚡ Fun fact: Finally, you would dream where you are now.
+🌱 Finally, you would dream where you are now.
 
 ### Connect with me:
 
